@@ -1,5 +1,5 @@
 {
-  "name": "fh-geoip",
+  "name": "geoip",
   "description": "GeoIP binding for node",
   "version": "0.4.6",
   "homepage": "http://github.com/kuno/GeoIP",
