@@ -1,4 +1,12 @@
-__GeoIP binding for nodejs__
+# GeoIP binding for nodejs (Deprecated)
+
+## :warning: Deprecation Notice
+
+This repository was deprecated and may be removed without prior notice.
+
+Use upstream version https://github.com/kuno/GeoIP
+
+## About
 
 Get geolocation information based on domain or IP address.
 
